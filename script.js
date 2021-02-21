@@ -6,6 +6,8 @@ function getInput(event) {
     let day = myBdate.slice(0,3);
 
     let gender= document.querySelector('input[name="gender"]:checked').value;
+
+    
     
     if(gender === "male" && day === "Sun") {
         console.log("Kwasi")
