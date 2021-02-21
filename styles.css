@@ -1,0 +1,41 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.intro{
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.609),rgba(0, 0, 0, 0.89)),url(images/ghanianKente.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-size: 23px;
+}
+
+.text{
+    color:white;
+    text-align: center;
+}
+.intro p{
+    padding-bottom: 25px;
+}
+.text h1{
+    padding-top: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.container{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.firstQ{
+   padding-bottom: 30px; 
+   font-weight: bolder;
+}
+.secondQ{
+    font-weight: bolder;
+}
+.text-success{
+    padding-bottom: 0px;
+}
