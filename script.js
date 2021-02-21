@@ -7,14 +7,14 @@ function getInput(event) {
 
     let gender= document.querySelector('input[name="gender"]:checked').value;
 
-    
+
     
     if(gender === "male" && day === "Sun") {
-        console.log("Kwasi")
+        Name="Kwasi"
     }else if(gender === "male" && day === "Mon") {
-        console.log("Kwadwo")
+        Name="Kwadwo"
     }else if(gender === "male" && day === "Tue"){
-        console.log("Kwabena")
+        Name="Kwabena"
     }else if(gender === "male" && day == "Wed") {
         Name="Kwaku"
     }else if(gender === "male" && day === "Thu") {
