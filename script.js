@@ -1,11 +1,4 @@
-
-
-
-
-
 let resultPar = document.getElementById('output')
-
-
 function getInput(event) {
     event.preventDefault();
     let birthdate = document.getElementById('bday').value
