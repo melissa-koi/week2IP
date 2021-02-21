@@ -6,8 +6,6 @@ function getInput(event) {
     let day = myBdate.slice(0,3);
 
     let gender= document.querySelector('input[name="gender"]:checked').value;
-
-
     
     if(gender === "male" && day === "Sun") {
         Name="Kwasi"
@@ -40,8 +38,9 @@ function getInput(event) {
     }else {
         Name="Invalid answer";
     }
-
+    
     let message = `Your Akan name is ${Name}`
     resultPar.innerHTML = message;
+    
 }
 
