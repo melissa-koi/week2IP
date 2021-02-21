@@ -1,12 +1,9 @@
-# Portfolio Landing Page
+# Akin Name Generator
 
-This is my portfolio including:
-* My name
-* An image representing who i am
-* A list of projects i have created
-* An about me section
+This is a web application that is inspired by the Ghanian culture. In Ghana the first name given to a newborn baby is solely dependent on the day of the week he/she is born and their gender.This name is known as the Akan name. The website i have created enables one to get an Akan name after input of thir birthdate and gender.
 
-#### By Melissa Wangui
+#### By Melissa Wangui 
+contact info
 ## Technologies used
 This webpage was created entirely by HTML5,CSS3 and JavaScript
 ## Link to live webpage
