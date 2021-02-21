@@ -9,5 +9,5 @@ This webpage was created entirely by HTML5,CSS3 and JavaScript
 ## Link to live webpage
 <https://melissa-koi.github.io/PortfolioLandingPage/>
 ## License
-<https://github.com/melissa-koi/PortfolioLandingPage/blob/main/LICENSE><br>
+<https://github.com/melissa-koi/week2IP/blob/main/LICENSE><br>
 The license used is MIT
